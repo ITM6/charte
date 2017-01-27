@@ -53,6 +53,9 @@ a:hover {
 }
 .bl-header h1 {
 	text-align: center;
+  font-size: 45px;
+  text-transform: uppercase;
+  color: #eaeaea;
 }
 .bl-main {
 	position: absolute;

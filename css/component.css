@@ -66,7 +66,6 @@ a:hover {
   color: #eaeaea;
 }
 .bl-main {
-	/*background: #333;*/
 	position: absolute;
 	width: 100%;
 	height: 80%;
@@ -118,19 +117,19 @@ a:hover {
 .bl-main > section:nth-child(4) {
 	top: 33.3333%;
 	left: 50%;
-	background: #f9a182;
+	background: #7DC281;
 }
 
 .bl-main > section:nth-child(5) {
 	top: 66.6666%;
 	left: 0;
-	background: #726c97;
+	background: #e8cf48;
 }
 
 .bl-main > section:nth-child(6) {
 	top: 66.6666%;
 	left: 50%;
-	background: #49406a;
+	background: #5f5f5f;
 }
 
 .bl-box {

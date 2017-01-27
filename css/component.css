@@ -1,5 +1,17 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot');
+	src:url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon.woff') format('woff'),
+		url('../fonts/icomoon.ttf') format('truetype'),
+		url('../fonts/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
 body, html { font-size: 100%; padding: 0; margin: 0; height: 100%;}
 
 *,
@@ -83,13 +95,13 @@ a:hover {
 .bl-main > section:nth-child(5) {
 	top: 66.6666%;
 	left: 0;
-	background: #3ba5db;
+	background: #10A296;
 }
 
 .bl-main > section:nth-child(6) {
 	top: 66.6666%;
 	left: 50%;
-	background: #91c4de;
+	background: #10A296;
 }
 
 .bl-box {
@@ -134,6 +146,7 @@ a:hover {
 }
 
 .bl-icon {
+	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;

@@ -123,13 +123,32 @@ a:hover {
 .bl-main > section:nth-child(5) {
 	top: 66.6666%;
 	left: 0;
-	background: #e8cf48;
+	background: #f1d336;
 }
 
 .bl-main > section:nth-child(6) {
 	top: 66.6666%;
 	left: 50%;
 	background: #5f5f5f;
+}
+
+.bl-main > section:first-child.bl-expand {
+	background: #cc4662;
+}
+.bl-main > section:nth-child(2).bl-expand {
+	background: #515a8f;
+}
+.bl-main > section:nth-child(3).bl-expand {
+	background: #13afb1;
+}
+.bl-main > section:nth-child(4).bl-expand {
+	background: #68be6d;
+}
+.bl-main > section:nth-child(5).bl-expand {
+	background: #fbb900;
+}
+.bl-main > section:nth-child(6).bl-expand {
+	background: #524e4e;
 }
 
 .bl-box {
@@ -419,25 +438,6 @@ div.bl-panel-items > div.bl-hide-current-work {
 
 .bl-main > section.bl-expand-top {
 	z-index: 100;
-}
-
-.bl-main > section:first-child.bl-expand {
-	background: #EE4444;
-}
-.bl-main > section:nth-child(2).bl-expand {
-	background: #F98262;
-}
-.bl-main > section:nth-child(3).bl-expand {
-	background: #4BBE8E;
-}
-.bl-main > section:nth-child(4).bl-expand {
-	background: #0D8278;
-}
-.bl-main > section:nth-child(5).bl-expand {
-	/*background: #0D8278;*/
-}
-.bl-main > section:nth-child(6).bl-expand {
-	/*background: #0D8278;*/
 }
 
 .bl-main.bl-expand-item > section:not(.bl-expand),

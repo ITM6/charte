@@ -70,6 +70,23 @@ a:hover {
 	width: 50%;
 	height: 33.3333%;
 }
+.bl-main > section hr {
+	border: none;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.21);
+}
+.bl-main > section blockquote {
+		font-size: 30px;
+    text-align: center;
+		width: 60%;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.29);
+    border-top: 1px solid rgba(255, 255, 255, 0.29);
+    padding: 52px 0;
+}
+
 
 .bl-main > section:first-child {
 	top: 0;
